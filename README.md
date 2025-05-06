@@ -57,6 +57,10 @@ Where:
 
 ---
 
+Zeta Zeros as Emergent Modes in a Noncommutative Spectral Network
+https://doi.org/10.5281/zenodo.15353621
+
+
 ## ▶️ How to Run
 
 ```bash
